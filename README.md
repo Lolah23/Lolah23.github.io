@@ -2,7 +2,7 @@
 Centria University of Applied Sciences
 
 # Education
-High school
+High school and
 National Diploma in Office Technology and management
 
 # Work Experience
